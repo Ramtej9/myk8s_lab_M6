@@ -1,0 +1,19 @@
+---
+- students:
+  - name: adi
+    phone: 8888888888
+    address: hyd
+
+  - name: ganga
+    phone: 66666666666
+    address:
+      home: #102
+      streat: East srinivasa colony
+      pincode: 500072
+
+  - name: jani
+    phno: 66666666666
+    address:
+      home: #102
+      streatNo: East srinivasa colony
+      pincode: 500072
